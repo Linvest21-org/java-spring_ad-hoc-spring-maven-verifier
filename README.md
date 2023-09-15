@@ -1,0 +1,1 @@
+# java-spring_ad-hoc-spring-maven-verifier
