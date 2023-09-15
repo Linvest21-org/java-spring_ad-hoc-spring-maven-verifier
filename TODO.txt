@@ -1,0 +1,13 @@
+Build a Springboot based application with features below.
+
+Main features are:
+* Be able to identify Java, Springboot, and maven pom.xml syntax errors, and compliation errors by line number
+* Be able to execute Maven based java or springboot projects, and identify runtime errors by line number, and invocation stack
+* Be able to execute unit test, and test reports
+* Be able to identify not-covered lines from unit tests
+
+A success delivery should include:
+* Full working code base
+* Unit tests
+* Sample usages to describe above scenarios
+* Readme.md
